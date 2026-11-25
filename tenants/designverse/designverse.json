@@ -1,9 +1,9 @@
 {
   "event": {
     "name": "DesignVerse 2027",
-    "startTime": "2026-05-22T09:00:00-07:00",
-    "endTime": "2026-05-23T21:00:00-07:00",
-    "deadline": "2026-05-22T21:00:00-07:00"
+    "startTime": "2027-04-17T09:00:00-07:00",
+    "endTime": "2027-04-18T09:00:00-07:00",
+    "deadline": "2027-04-18T08:00:00-07:00"
   },
   "slug": "designverse",
   "hackCreditsPerCheckin": 10,
